@@ -157,6 +157,14 @@
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+
+ 
 </div>
 
+###
+
+<h2 align="left">Holopin Badges</h2>
+
+###
+[![An image of @pavancodes05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pavancodes05)](https://holopin.io/@pavancodes05)
 ###
