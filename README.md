@@ -163,7 +163,7 @@
 
 ###
 
-<h2 align="left">Holopin Badges</h2>
+<h2 align="left">Badges</h2>
 
 ###
 [![An image of @pavancodes05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pavancodes05)](https://holopin.io/@pavancodes05)
